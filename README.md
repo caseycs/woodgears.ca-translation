@@ -1,2 +1,3 @@
-# woodgears.ca-translation
-Translation for woodgears.ca
+# woodgears.ca russian translation
+
+Small help for Matthias Wandel woodgears.ca website.
