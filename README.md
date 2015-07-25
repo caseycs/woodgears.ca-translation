@@ -1,3 +1,5 @@
-# woodgears.ca russian translation
+# woodgears.ca
 
-Small help for Matthias Wandel woodgears.ca website.
+## Russian language translation
+
+Small help for Matthias Wandel http://woodgears.ca website.
